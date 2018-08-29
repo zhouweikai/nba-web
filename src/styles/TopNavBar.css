@@ -1,13 +1,14 @@
-.App-logo {
-    height: 35px;
+.App-header {
+    height: 55px;
+    background-color: #1D428A;
+    display: flex;
+    align-items: center;
+    margin-bottom: 70px;
+    box-shadow: -1px 0 5px 0 #1D428A;
 }
 
-.App-header {
-    background-color: #1D428A;
-    padding-top: 10px;
-    padding-bottom: 10px;
+.App-logo {
+    height: 35px;
+    float: left;
     padding-left: 40px;
-    text-align: left;
-    box-shadow: 1px 3px 5px #ccc;
-    margin-bottom: 70px;
 }
